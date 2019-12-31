@@ -1,6 +1,4 @@
-enable_contact_section: true
-copyright: '&copy; Reflex. All rights reserved. Lorem ipsum dolor sit amet nullam.'
-links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+---
+enable_contact_section: false
+copyright: ''
+links: []
