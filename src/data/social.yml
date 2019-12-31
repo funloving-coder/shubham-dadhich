@@ -4,7 +4,7 @@ title: ''
 social_content: ''
 social_links:
 - title: Facebook
-  icon: <i class="fab fa-facebook"></i>
+  icon: fa-facebook
   link_url: https://www.facebook.com/shubham.dadhich.54
 - title: Twitter
   icon: fa-twitter
