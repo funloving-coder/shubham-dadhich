@@ -6,7 +6,7 @@ sections:
   content: ''
   actions: []
   title: Shubham's Blog
-  img_path: "/images/IMG_9063-2.jpg"
+  img_path: "/images/IMG_9063-3.jpg"
   component: Intro
 - type: features
   template: features
