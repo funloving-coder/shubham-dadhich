@@ -4,9 +4,9 @@ sections:
 - type: intro
   template: intro
   content: |-
-    ##### I’m Shubham, the guy behind some development tricks! You’ll find that.
+    I’m Shubham, the guy behind some development tricks! You’ll find that
 
-    ##### I’m incredibly passionate about coding stuff and also share my tips and tricks about development!
+    I’m incredibly passionate about coding stuff and also share my tips and tricks about development!
   actions: []
   title: Shubham's Blog
   img_path: "/images/IMG_9063-3.jpg"
