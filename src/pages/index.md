@@ -20,9 +20,9 @@ sections:
     url: "/generic"
     is_scrolly: false
     is_primary: false
-  title: Duis torquent
-  subtitle: "Rutrum facilisis. Class aptent taciti sociosqu  \nlitora torquent et
-    conubia etiam nostra."
+  title: Explore!
+  subtitle: "“A blog is only as interesting as the interest shown in others.” - Lee
+    Odden"
   component: Spotlight
 - type: mission
   template: mission
