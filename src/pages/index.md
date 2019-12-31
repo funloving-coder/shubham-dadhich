@@ -3,10 +3,10 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: |-
-    I’m Shubham, the guy behind some development tricks! You’ll find that
+  content: |2-
+        <font size="10px">I’m Shubham, the guy behind some development tricks! You’ll find that</font>
 
-    I’m incredibly passionate about coding stuff and also share my tips and tricks about development!
+        <font size="10px">I’m incredibly passionate about coding stuff and also share my tips and tricks about development!</font>
   actions: []
   title: Shubham's Blog
   img_path: "/images/IMG_9063-3.jpg"
