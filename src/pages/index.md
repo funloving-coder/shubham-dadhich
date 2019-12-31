@@ -8,33 +8,6 @@ sections:
   title: Shubham's Blog
   img_path: "/images/IMG_9063-3.jpg"
   component: Intro
-- type: features
-  template: features
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum
-    facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-    per inceptos himenaeos malesuada fames ac turpis egestas. In non lorem amet. Duis
-    dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-    conubia nostra, per inceptos himenaeos. Etiam tristique eu nibh.
-  actions:
-  - label: Details
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
-  title: Ipsum malesuada
-  subtitle: "Rutrum facilisis. Class aptent taciti sociosqu  \nlitora torquent et
-    conubia etiam nostra."
-  symbol_display:
-  - title: Lorem
-    icon: fa-code
-  - title: Ipsum
-    icon: fa-cog
-  - title: Dolor
-    icon: fa-diamond
-  - title: Feugiat
-    icon: fa-camera-retro
-  - title: Tempus
-    icon: fa-briefcase
-  component: Features
 - type: spotlight
   template: spotlight
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum
