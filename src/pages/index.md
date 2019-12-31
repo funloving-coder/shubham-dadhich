@@ -3,15 +3,10 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: "Lorem ipsum dolor sit magna consectetur  \nadipiscing elit. Duis dapibus
-    rutrum facilisis.  \nClass aptent taciti sociosqu torquent."
-  actions:
-  - label: Get Started
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
+  content: ''
+  actions: []
   title: Shubham's Blog
-  img_path: images/pic01.jpg
+  img_path: "/images/IMG_9063.jpg"
   component: Intro
 - type: features
   template: features
