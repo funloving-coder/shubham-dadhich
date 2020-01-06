@@ -1,7 +1,9 @@
 ---
 enabled: true
-title: For more details contact
-social_content: ''
+title: Get in touch!
+social_content: If you have any questions, please feel free to drop me a line. If
+  you don't get an answer immediately, I might just be traveling through the middle
+  of nowhere. I'll get back to you as soon as I can. That's a promise!
 social_links:
 - title: Facebook
   icon: fa-facebook
