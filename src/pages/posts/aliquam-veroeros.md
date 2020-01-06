@@ -30,7 +30,7 @@ When a company’s representative opens the record a lightning component will he
 
 Object Relationship
 
-![](https://lh5.googleusercontent.com/rhKghd2ERXUAx5x6-J3n5WodeUuxR5U-6I4k5n8GhR4n08EAM-FXHs-K2a_M3gI-iqSWGJ8Oqh3d4ZhQHBmqGcZyc7FjtGcqxW9oTlbcVOak1FHWumSYGVMDVKqDUqxjuhObzo4T =224x303)
+![](/images/Object Flow Diagram.jpeg)
 
 **Case Plan Object**
 
@@ -67,19 +67,21 @@ Whenever a case record is created, trigger fired and add active Case Plan id to 
 
 Create a Lightning flow that helps you to edit and insert a new Case Plan and this case plan flow will fire another flow which will help you to add Case Steps to your Case Plan and each case steps have their action.
 
-![](https://lh6.googleusercontent.com/Z-qKs3NGAvaB2B90gOd0THiNxfbXGS7Ei0xMG5lTBgwT_wyQtIAFGiEp7g5J-Jhw26N3RLKVoARvRfBi6GMsb302-zCEWpqIrszGIHtG5YUXj68hNR7lsupF8l_TDkivq2Z6Z25u =624x312)
+![](/images/Create Case Plan.png)
 
 **Create a Lightning Component that provides you the UI of your application.**
 
-![](https://lh6.googleusercontent.com/R6WHkzTWPyxffVrIE3w_TNy-CsY-sNgqZ71PKXsyMAHY5S8J8BFu3vaOB2uRhkOyoYs2MvBNABih4pjkhHBNL5QIvKP1EpfdM8PKyoIVyOc9CKOqWCTf7o-DgK5xKFf49lw3Vmc_ =304x337)
+![](/images/lc.PNG)
 
 Each button is associated with its Case Step, so when user clicks on the button an Action Flow is fired using <lightning: flow>.
 
 In flow you have to check its status if it is In Progress, you need to complete manual action if it is an Automated flow it will be fired automatically and update the status of Case Step as well according to flow diagram.
 
-![](https://lh6.googleusercontent.com/B5eIQnzlo-yJrrWx3l7L3Tq6Mhq3DuhORi2J7I9VMjEHWoBToIRkp2H9G7K4-jiYOwI-S9bChF3_ok5TgjmvIWFsRdott-pOtKdshz0wOlP7TedOEHzpabTuiWnCwkdokwmJBpXt =624x108)Diagram Below shows the detailed functionality of the Component.
+![](/images/Managing Case Steps.png)
 
-![](https://lh6.googleusercontent.com/eOaoUW7M5LfQyD7SAKYxiqMebSYnmqPsMHGw_KArf558V11vCz7Oki7toys2FRN33cZP408PBti0-rr-5CxBy9V1H602YOEB6yDsT0sonvOPEn6R6FSv-QavpZYeaNp5FVRf_xWK =624x368)
+Diagram Below shows the detailed functionality of the Component.
+
+![](/images/Product Case Management Final.png)
 
 **Future Scope**
 
