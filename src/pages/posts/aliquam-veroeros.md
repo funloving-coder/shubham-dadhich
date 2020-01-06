@@ -4,7 +4,7 @@ excerpt: In a fast phase workstyle, we need to do our work just on clicks with m
   efficiency. Salesforce provides you the best platform to manage your cases just
   on a few clicks using **Lightning Flows**.
 img_path: "/images/Flows.PNG"
-post_button_label: Details
+post_button_label: Read More
 date: 2017-04-02T18:30:00Z
 template: page
 subtitle: ''
