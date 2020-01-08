@@ -54,9 +54,9 @@ Case Step Object used for adding action, like users want to send an Acknowledgem
 
 **Case Object**
 
-1. Add a custom field Associated Case Plan (Lookup To Case Plan).
+1. Add a custom field associated Case Plan (Lookup To Case Plan).
 
-Whenever a case record is created, trigger fired and add active Case Plan id to Associated Case Plan field on Case object from Metadata.
+Whenever a case record is created, trigger fired and add active Case Plan id to associated Case Plan field on Case object from metadata.
 
 **Create a Metadata - To maintain uniqueness of Case Plan on each case record.**
 
@@ -73,24 +73,24 @@ Create a Lightning flow that helps you to edit and insert a new Case Plan and th
 
 ![](/images/lc.PNG)
 
-Each button is associated with its Case Step, so when user clicks on the button an Action Flow is fired using <lightning: flow>.
+Each button is associated with its Case Step, so when user clicks on the button an action flow is fired using <lightning: flow>.
 
-In flow you have to check its status if it is In Progress, you need to complete manual action if it is an Automated flow it will be fired automatically and update the status of Case Step as well according to flow diagram.
+In flow you have to check its status if it is 'In Progress', you need to complete manual action if it is an automated flow it will be fired automatically and update the status of Case Step as well according to flow diagram.
 
 ![](/images/Managing Case Steps.png)
 
-Diagram Below shows the detailed functionality of the Component.
+The diagram below shows the detailed functionality of the component.
 
 ![](/images/Product Case Management Final.png)
 
 **Future Scope**
 
-In Future we can also provide:
+In the future we can also provide:
 
-1. Feedback System After closing Case.
-2. Live updates for Customer’ problem.
-3. Automated assigned cases as per Company Representative’s skill set.
-4. Provide community to end-users and give them a Flow which helps them to log a case with some suggestions and predictions.
+1. Feedback System after closing case.
+2. Live updates for customer’s problems.
+3. Automated assigned cases as per the company representative’s skill set.
+4. Provide community to end-users and give them a flow which helps them to log a case with some suggestions and predictions.
 
 **Other Resources.**
 
