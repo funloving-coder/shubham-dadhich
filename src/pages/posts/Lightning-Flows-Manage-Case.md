@@ -28,9 +28,9 @@ When a company’s representative opens the record a lightning component will he
 
 **Implementation**
 
-Object Relationship
+Implementing the use case, where we will use a few objects, metadata for configuration using flows we and its playground we can easily set up all the flows, here we start.
 
-![](/images/Object Flow Diagram.jpeg)
+Object Relationship                             ![](/images/Object Flow Diagram.jpeg)
 
 **Case Plan Object**
 
