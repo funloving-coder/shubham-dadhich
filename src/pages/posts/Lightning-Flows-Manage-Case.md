@@ -32,7 +32,7 @@ Implementing the use case, where we will use a few objects, metadata for configu
 
 Object Relationship
 
-                                           ![](/images/Object Flow Diagram.jpeg)
+![](/images/Object Flow Diagram.jpeg)
 
 **Case Plan Object**
 
