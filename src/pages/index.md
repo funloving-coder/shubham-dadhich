@@ -11,11 +11,7 @@ sections:
 - type: spotlight
   template: spotlight
   content: ''
-  actions:
-  - label: Details
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
+  actions: []
   title: Explore!
   subtitle: "“A blog is only as interesting as the interest shown in others.” - Lee
     Odden"
