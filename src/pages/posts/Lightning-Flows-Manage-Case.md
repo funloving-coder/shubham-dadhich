@@ -70,8 +70,8 @@ Whenever a case record is created, trigger fired and add active Case Plan id to 
 
 **Create a Metadata - To maintain uniqueness of Case Plan on each case record.**
 
-* Active Case Plan Id.
-* Record Type.
+* Active Case Plan Id (Text).
+* Record Type (Text).
 
 **Create Case Plan Flow**
 
