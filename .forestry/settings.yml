@@ -45,11 +45,6 @@ sections:
   templates:
   - post
 - type: document
-  path: src/pages/elements.md
-  label: Elements
-  templates:
-  - elements
-- type: document
   path: src/data/menus.json
   label: Site Menus
   templates:
