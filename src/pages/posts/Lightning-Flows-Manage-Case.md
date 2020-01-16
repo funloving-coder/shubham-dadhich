@@ -10,7 +10,15 @@ template: page
 subtitle: ''
 
 ---
-**Introduction**
+#### **Learning Objectives**
+
+After completing this blog you will be able to
+
+* Manage cases on just clicks.
+* What is Flows.
+* How Flows can be integrated with Lightning Components
+
+#### **Introduction**
 
 In a fast phase workstyle, we need to do our work just on clicks with more efficiency. Salesforce provides you the best platform to manage your cases just on a few clicks using **Lightning Flows**.
 
@@ -18,7 +26,7 @@ Salesforce provides you **Lightning Flows** which helps to manage your work just
 
 In flow you can use Apex, Lightning Components and also helps you to create, update and delete your records just on click.
 
-**Use Case**
+#### **Use Case**
 
 Starting with a use case where a product based company is managing its Cases.
 
@@ -26,7 +34,7 @@ When a customer submits a case to the company, according to its record type syst
 
 When a company’s representative opens the record a lightning component will help him to complete the masonry steps on case to close the case.
 
-**Implementation**
+#### **Implementation**
 
 Implementing the use case, where we will use a few objects, metadata for configuration using flows we and its playground we can easily set up all the flows, here we start.
 
@@ -85,7 +93,7 @@ The diagram below shows the detailed functionality of the component.
 
 ![](/images/Product Case Management Final.png)
 
-**Future Scope**
+#### **Future Scope**
 
 In the future we can also provide:
 
@@ -94,7 +102,7 @@ In the future we can also provide:
 * Automated assigned cases as per the company representative’s skill set.
 * Provide community to end-users and give them a flow which helps them to log a case with some suggestions and predictions.
 
-**Useful Links.**
+#### **Useful Links.**
 
 * [Lightning Flows Trailhead](https://trailhead.salesforce.com/en/content/learn/modules/business_process_automation)
 * [How to add flows in Lightning Component](https://developer.salesforce.com/docs/component-library/bundle/lightning:flow/example)
